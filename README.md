@@ -1,6 +1,6 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name : mohan raj
+Name : Mohan raj S
 
 Roll no :212221230065
 
